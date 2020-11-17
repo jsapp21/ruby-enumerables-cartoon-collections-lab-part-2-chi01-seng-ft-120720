@@ -36,12 +36,6 @@ end
 def find_valid_calls(planeteer_calls)
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
 
-  planeteer_calls.include? valid_calls
-  
-  valid_calls.find do |word|
-    word 
-  end 
-
-# you need to set new variables     
+   
    
 end
